@@ -1,0 +1,2 @@
+BOT_TOKEN = "SIZNING_TELEGRAM_BOT_TOKENINGIZ"
+ANIME_API_URL = "https://api.jikan.moe/v4"
